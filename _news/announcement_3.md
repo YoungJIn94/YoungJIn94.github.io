@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We won the Silver Prize at the 2023 Samsung Display Industry-Academia Technical Paper Awards!:smile:
+Silver Prize at the Samsung Display Industry-Academia Technical Paper Awards!:smile:
