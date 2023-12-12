@@ -5,7 +5,8 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to SIGGRAPH Asia 2023
+Our paper accepted to <a href="https://dl.acm.org/doi/10.1145/3618395">SIGGRAPH ASIA 2023</a>
+
 
 
 <!-- ---
