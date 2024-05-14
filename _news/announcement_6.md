@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to <a href="https://ieeexplore.ieee.org/abstract/document/10163790">IEEE Photonics Journal, to be published!</a>
+Our paper accepted to <a href="https://ieeexplore.ieee.org/abstract/document/10163790">IEEE Photonics Journal</a>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to Science Advances, to be published!</a>
+Our paper accepted to Science Advances, to be published!

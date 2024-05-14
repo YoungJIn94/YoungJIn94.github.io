@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visitng student at Stanford University, Prof. Mark Brongersma's group
+Visitng student at Stanford University for 3 months, Prof. Mark Brongersma's group
