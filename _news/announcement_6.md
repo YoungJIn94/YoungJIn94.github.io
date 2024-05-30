@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-6-21 15:59:00-0400
+date: 2024-4-29 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper accepted to <a href="https://ieeexplore.ieee.org/abstract/document/10163790">IEEE Photonics Journal</a>
+Our paper accepted to <a href="https://www.science.org/doi/10.1126/sciadv.adn9000">Science Advances</a>
