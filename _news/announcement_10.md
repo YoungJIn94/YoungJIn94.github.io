@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to Optics Letters</a>
+Our paper accepted to Optics Letters
