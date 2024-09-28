@@ -37,6 +37,8 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: bold;  /* Add this line to make hyperlinks bold */
+
 
   &:hover {
     color: var(--global-theme-color);
