@@ -37,9 +37,12 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: bold;  /* Add this line to make hyperlinks bold */
+
 
   &:hover {
     color: var(--global-theme-color);
+    font-weight: bold;
     text-decoration: underline;
   }
 
@@ -663,8 +666,8 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        min-width: 120px;
+        max-width: 300px;
       }
 
       .abbr {

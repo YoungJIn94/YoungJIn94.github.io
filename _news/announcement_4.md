@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visitng student at Stanford University for 3 months, Prof. Mark Brongersma's group
+Visitng Prof. <a href="https://brongersma.stanford.edu">Brongersma's group</a> at Stanford University for 3 months!
