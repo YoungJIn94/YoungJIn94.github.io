@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to Optics Letters
+Our paper accepted to <a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-49-19-5659&id=561014">Optics Letters</a>
