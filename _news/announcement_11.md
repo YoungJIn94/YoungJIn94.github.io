@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to Science Advances
+Our paper accepted to <a href="https://www.science.org/doi/10.1126/sciadv.adr2319">Science Advances</a>
