@@ -117,15 +117,6 @@ blockquote {
   }
 }
 
-// Description
-
-.desc {
-  font-size: 3rem;  // Adjust size as needed
-  font-weight: normal;  // Optional: Keeps weight normal
-  color: var(--global-text-color);  // Ensures it follows theme
-  margin-top: 0.5rem;  // Adds spacing if needed
-}
-
 // Math
 
 .equation {
@@ -1107,4 +1098,14 @@ nav[data-toggle="toc"] {
   font-size: 0.8rem;
   color: var(--global-text-color-light);  // Optional: Make the date lighter
 }
+
+.desc {
+  font-size: 2rem;  // Adjust as needed
+  font-weight: normal;  // Keeps text readable
+  color: var(--global-text-color);
+  text-align: center;  // Optional: Centers the text
+  margin-top: 1rem;  // Adds spacing if needed
+}
+
+
 
