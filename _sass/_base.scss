@@ -700,7 +700,7 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
       }
 
       .author {
@@ -758,6 +758,7 @@ footer.sticky-bottom {
           height: 100%;
           padding-right: 0.5rem;
           vertical-align: middle;
+          font-weight: bold;
 
           &:hover {
             text-decoration: underline;
