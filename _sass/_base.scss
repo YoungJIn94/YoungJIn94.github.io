@@ -665,7 +665,7 @@ footer.sticky-bottom {
       // margin-bottom: 1rem;
       display: flex;
       align-items: center; // Align image & text properly
-      gap: 1rem; // Add spacing between image and description
+      gap: 3rem; // Add spacing between image and description
       
       // .preview {
       //   width: 150%;
@@ -676,6 +676,7 @@ footer.sticky-bottom {
       .preview {
         flex: 0 0 200px; // Set a fixed width
         max-width: 250px; // Adjust size as needed
+        margin-right: 20px;
       }
       
 
