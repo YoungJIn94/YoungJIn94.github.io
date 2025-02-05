@@ -23,6 +23,7 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+
 table {
   td,
   th {
@@ -113,6 +114,15 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
+}
+
+// Description
+
+.desc {
+  font-size: 3rem;  // Adjust size as needed
+  font-weight: normal;  // Optional: Keeps weight normal
+  color: var(--global-text-color);  // Ensures it follows theme
+  margin-top: 0.5rem;  // Adds spacing if needed
 }
 
 // Math
