@@ -1100,12 +1100,13 @@ nav[data-toggle="toc"] {
 }
 
 .desc {
-  font-size: 2rem;  // Adjust as needed
-  font-weight: normal;  // Keeps text readable
-  color: var(--global-text-color);
-  text-align: center;  // Optional: Centers the text
-  margin-top: 1rem;  // Adds spacing if needed
+  font-size: 2rem !important;  // Force the font size change
+  font-weight: normal !important;
+  color: var(--global-text-color) !important;
+  text-align: center !important;
+  margin-top: 1rem !important;
 }
+
 
 
 
