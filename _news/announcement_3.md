@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Silver Prize at the Samsung Display Industry-Academia Technical Paper Awards!:smile:
+Silver Prize at the Samsung Display Industry-Academia Technical Paper Awards

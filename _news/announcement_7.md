@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start a research scientist intern at <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a>!
+Starting a Research Scientist Intern at <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a>!
