@@ -662,13 +662,22 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      // margin-bottom: 1rem;
+      display: flex;
+      align-items: center; // Align image & text properly
+      gap: 1rem; // Add spacing between image and description
+      
+      // .preview {
+      //   width: 150%;
+      //   min-width: 200px;
+      //   max-width: 300px;
+      // }
 
       .preview {
-        width: 150%;
-        min-width: 200px;
-        max-width: 300px;
+        flex: 0 0 200px; // Set a fixed width
+        max-width: 250px; // Adjust size as needed
       }
+      
 
       .abbr {
         height: 3.0rem;
