@@ -1094,11 +1094,17 @@ nav[data-toggle="toc"] {
 
 
 .news-list {
-  font-size: 1.2rem;  // Adjust size as needed
+  font-size: 0.8rem;  // Adjust size as needed
   line-height: 1.5;  // Improve readability
 }
 
 .news-item {
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   margin-bottom: 1rem;  // Adds spacing between news items
 }
+
+.news th {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);  // Optional: Make the date lighter
+}
+
