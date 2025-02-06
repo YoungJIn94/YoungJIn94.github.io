@@ -733,7 +733,7 @@ footer.sticky-bottom {
         //   font-style: normal;
         // }
 
-        >em {
+        >em { // my name among the author lists
           font-style: normal !important; /* Remove italics */
           font-weight: bold !important; /* Make it bold */
           color: var(--global-theme-color);
@@ -1117,8 +1117,9 @@ nav[data-toggle="toc"] {
   // font-style: normal !important;  /* Remove italics */
   font-weight: bold !important;   /* Make it bold */
   font-size: 1.0rem !important; 
+  text-decoration: underline !important; /* Adds underline */
   margin-top: 0.5rem !important;  /* Adjust the value as needed */
-  display: block; /* Ensures it behaves like a block element for spacing */
+  // display: block; /* Ensures it behaves like a block element for spacing */
 }
 
 
