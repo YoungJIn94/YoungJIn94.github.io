@@ -1098,13 +1098,23 @@ nav[data-toggle="toc"] {
   line-height: 1.5; /* Improve readability */
 }
 
+/* Increase font size of the introduction text */
 .desc {
-  font-size: 2rem !important;  // Force the font size change
+  font-size: 2rem; /* Adjust size as needed */
+  font-weight: normal; /* Keep text readable */
+  color: var(--global-text-color);
+  text-align: center; /* Center the text */
+  margin-top: 1rem; /* Add spacing if needed */
+  line-height: 1.5; /* Improve readability */
 }
 
-p.desc {
-  font-size: 2rem !important;
+/* Adjust font size for mobile devices */
+@media (max-width: 768px) {
+  .desc {
+    font-size: 1.5rem; /* Smaller font size for smaller screens */
+  }
 }
+
 
 
 
