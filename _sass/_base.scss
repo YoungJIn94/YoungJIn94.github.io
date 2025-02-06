@@ -1090,7 +1090,7 @@ h2:nth-of-type(3) {
 
 /* Increase font size of news date */
 .news th {
-  font-size: 1.5rem; /* Adjust as needed */
+  font-size: 1.0rem; /* Adjust as needed */
   font-weight: bold; /* Make it stand out */
   color: var(--global-text-color-light); /* Optional: Make it visually softer */
   padding-right: 1rem; /* Adds spacing between date and content */
@@ -1098,7 +1098,7 @@ h2:nth-of-type(3) {
 
 /* Increase font size of news content */
 .news td {
-  font-size: 1.5rem; /* Adjust as needed */
+  font-size: 1.0rem; /* Adjust as needed */
   line-height: 1.5; /* Improve readability */
 }
 
