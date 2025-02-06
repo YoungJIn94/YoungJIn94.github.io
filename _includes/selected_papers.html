@@ -1,7 +1,4 @@
 
           <div class="publications">
-            {% assign selected_pubs = site.scholar.bibliography | where_exp: "item", "item.selected == true" | reverse %}
-            {% for entry in selected_pubs %}
-              {% include bib_entry.html entry=entry %}
-            {% endfor %}
+            {% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[selected=true]* %}
           </div>
