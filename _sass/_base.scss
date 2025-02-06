@@ -1088,27 +1088,22 @@ h2:nth-of-type(3) {
 }
 
 
-// .news-list {
-//   font-size: 0.5rem;  // Adjust size as needed
-//   line-height: 1.0;  // Improve readability
-// }
+/* Increase font size of news date */
+.news th {
+  font-size: 1.5rem; /* Adjust as needed */
+  font-weight: bold; /* Make it stand out */
+  color: var(--global-text-color-light); /* Optional: Make it visually softer */
+  padding-right: 1rem; /* Adds spacing between date and content */
+}
 
-// .news-item {
-//   font-size: 0.5rem;
-//   margin-bottom: 0.5rem;  // Adds spacing between news items
-// }
-
-// .news th {
-//   font-size: 1.0rem;
-//   color: var(--global-text-color-light);  // Optional: Make the date lighter
-// }
+/* Increase font size of news content */
+.news td {
+  font-size: 1.5rem; /* Adjust as needed */
+  line-height: 1.5; /* Improve readability */
+}
 
 .desc {
   font-size: 2rem !important;  // Force the font size change
-  font-weight: normal !important;
-  color: var(--global-text-color) !important;
-  text-align: center !important;
-  margin-top: 1rem !important;
 }
 
 p.desc {
