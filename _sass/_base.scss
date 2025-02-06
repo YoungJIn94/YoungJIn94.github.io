@@ -1112,6 +1112,12 @@ nav[data-toggle="toc"] {
   line-height: 1.5 !important;
 }
 
+.journal-name {
+  font-style: normal !important;  /* Remove italics */
+  font-weight: bold !important;   /* Make it bold */
+  font-size: 1.2rem;
+}
+
 
 
 
