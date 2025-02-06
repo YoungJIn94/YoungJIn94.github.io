@@ -644,7 +644,8 @@ footer.sticky-bottom {
   }
 
   h2 {
-    margin-bottom: 5rem;
+    margin-top: 5rem;
+    // margin-bottom: 5rem;
     // margin-bottom: 1rem;
 
     span {
@@ -1103,7 +1104,6 @@ nav[data-toggle="toc"] {
 
 .clearfix p {
   font-size: 1.2rem !important;  /* Adjust size */
-  text-align: center !important;
   line-height: 1.2 !important;
 }
 
