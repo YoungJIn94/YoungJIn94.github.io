@@ -728,10 +728,17 @@ footer.sticky-bottom {
           }
         }
 
+        // >em {
+        //   border-bottom: 1px solid;
+        //   font-style: normal;
+        // }
+
         >em {
-          border-bottom: 1px solid;
-          font-style: normal;
+          font-style: normal !important; /* Remove italics */
+          font-weight: bold !important; /* Make it bold */
+          border-bottom: none; /* Optional: Remove the underline */
         }
+        
 
         >span.more-authors {
           color: var(--global-text-color-light);
