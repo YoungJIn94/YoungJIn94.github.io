@@ -1088,20 +1088,20 @@ h2:nth-of-type(3) {
 }
 
 
-.news-list {
-  font-size: 0.5rem;  // Adjust size as needed
-  line-height: 1.0;  // Improve readability
-}
+// .news-list {
+//   font-size: 0.5rem;  // Adjust size as needed
+//   line-height: 1.0;  // Improve readability
+// }
 
-.news-item {
-  font-size: 0.5rem;
-  margin-bottom: 0.5rem;  // Adds spacing between news items
-}
+// .news-item {
+//   font-size: 0.5rem;
+//   margin-bottom: 0.5rem;  // Adds spacing between news items
+// }
 
-.news th {
-  font-size: 1.0rem;
-  color: var(--global-text-color-light);  // Optional: Make the date lighter
-}
+// .news th {
+//   font-size: 1.0rem;
+//   color: var(--global-text-color-light);  // Optional: Make the date lighter
+// }
 
 .desc {
   font-size: 2rem !important;  // Force the font size change
