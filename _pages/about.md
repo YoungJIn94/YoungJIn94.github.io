@@ -21,5 +21,5 @@ I am a Postdoctoral Researcher at Seoul National University. I completed my PhD 
 I aim to develop [innovative imaging and display systems leveraging nanophotonics](), particularly metasurfaces, for cameras, AR/VR systems, holographic displays, and microscopes through computational optics design frameworks.
 
 Below are my key research experiences:
-* Visiting Researcher, Stanford University (Advisor: Mark Brongersma), CA, USA, Nov. 2023 ~ Feb. 2024.
+* Visiting Researcher, [Stanford University](https://brongersma.stanford.edu/) (Advisor: [Mark Brongersma](https://scholar.google.com/citations?user=llkveWIAAAAJ&hl=en&oi=ao)), CA, USA, Nov. 2023 ~ Feb. 2024.
 * Research Scientist Intern, Meta Reality Labs (Advisor: Xiayu Feng), WA, USA, Jun. 2024 ~ Oct. 2024
