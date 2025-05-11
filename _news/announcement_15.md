@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded <a href="https://www.nrf.re.kr/eng/index">Sejong Science Fellowship - Overseas Track</a> funded by Korean government
+Awarded <a href="https://www.nrf.re.kr/eng/index">Sejong Science Fellowship</a> funded by Korean government
