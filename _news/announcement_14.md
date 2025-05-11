@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to ACS Photonics
+Our paper accepted to <a href="https://pubs.acs.org/doi/abs/10.1021/acsphotonics.4c02602">ACS Photonics</a>
