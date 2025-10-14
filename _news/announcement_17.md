@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded Doyeon Academic Paper Award at Seoul National University
+Doyeon Academic Paper Award at Seoul National University
