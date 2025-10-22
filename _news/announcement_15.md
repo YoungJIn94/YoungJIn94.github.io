@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded <a href="https://www.nrf.re.kr/eng/index">Sejong Science Fellowship</a> funded by Korean government
+Awarded <a href="https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1&uprBizNos=178,6,1">Sejong Science Fellowship</a> funded by Korean government
