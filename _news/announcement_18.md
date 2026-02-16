@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper accepted to Nature Communications
+Our paper accepted to <a href="https://www.nature.com/articles/s41467-025-68151-z">Nature Communications</a>!
